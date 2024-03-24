@@ -4,6 +4,7 @@ arch-install-scripts
 archinstall
 b43-fwcutter
 base
+boost
 base-devel
 bind
 brltty
@@ -99,6 +100,7 @@ rp-pppoe
 rsync
 rxvt-unicode-terminfo
 screen
+sddm
 sdparm
 sg3_utils
 smartmontools
@@ -148,6 +150,8 @@ neofetch-git
 
 #ParchLinux Core Packages
 os-prober
+calamares
+calamares-parch
 paru
 parch-emoji-ios
 vazirmatn-fonts
